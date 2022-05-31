@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+h1{
+    color: red;
+    font-size: 3rem;
+    margin: 0;
+}
+h2{
+    font-size: 1.5rem;
+    text-decoration: underline;
+}
